@@ -4,7 +4,7 @@ const nombre = 'Juan';
 const trabajo = 'Desarrollador Web';
 
 //concatenar JS
-console.log('Nombre: '+nombre + ', Trabajo: '+trabajo);
+console.log('Nombre: ' + nombre + ', Trabajo: ' + trabajo);
 console.log(`Nombre: ${nombre} , Trabajo: ${trabajo}`);
 
 //concatenar con multples lineas

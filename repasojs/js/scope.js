@@ -13,7 +13,7 @@
 
 let musica = 'Rock';
 
-if (musica){
+if (musica) {
     let musica = 'Grunge';
     console.log('dentro del if: ', musica);
 }
